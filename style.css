@@ -285,6 +285,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
+    margin: 10px;
     content: "What we provide";
 }
 .services .serv-content .card{
